@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mahjong yaku detection app](https://www.youtube.com/watch?v=XW00hO8GFRA)](https://www.youtube.com/watch?v=XW00hO8GFRA)
+[![mahjong yaku detection app](https://img.youtube.com/vi/XW00hO8GFRA/0.jpg)](https://www.youtube.com/watch?v=XW00hO8GFRA)
 
 <a href="https://twitter.com/hiroyukiobinata">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
